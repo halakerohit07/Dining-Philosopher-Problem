@@ -1,0 +1,1 @@
+No it's not possible to dynamically change the number of philosophers as it the number of philosophers are fixed in the constructor. And if for example we have 5 philosophers therefore 1 and 4 can eat at the same time, if one philosopher id-5 leaves in the middle id-1 and id-4 becomes neighbours and they would be eating at the same time, which violates the synchronization. 
