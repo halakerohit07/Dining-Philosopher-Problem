@@ -1,4 +1,5 @@
 # Dining-Philosopher-Problem
+This repository contains files for the Dining-Philosopher-Problem for course Comp-346 using Java
 
 ## Description of the problem
 
