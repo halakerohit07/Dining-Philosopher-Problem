@@ -14,13 +14,13 @@ This project is a slightly extended version of the classical synchronization pro
 - DiningPhilosophers.java
 
 
-### Language(s) used
+## Language(s) used
 ------
 * Java
 
 
 ## Author(s)
-------
+
 
 * [**Mushfiqur Anik**](https://github.com/mushfiqur-anik)
 
