@@ -15,7 +15,7 @@ This project is a slightly extended version of the classical synchronization pro
 - DiningPhilosophers.java
 
 
-## Language(s) used
+## Built with
 * Java
 
 
