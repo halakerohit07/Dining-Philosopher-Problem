@@ -20,7 +20,6 @@ This project is a slightly extended version of the classical synchronization pro
 
 
 ## Author(s)
-
 ------
 
 * [**Mushfiqur Anik**](https://github.com/mushfiqur-anik)
