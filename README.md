@@ -1,5 +1,5 @@
 # Dining-Philosopher-Problem
-This repository contains files for the Dining-Philosopher-Problem for course Comp-346 using Java
+This repository contains files for the Dining-Philosopher-Problem for Operating Systems course Comp-346
 
 ## Description of the problem
 
@@ -16,7 +16,8 @@ This project is a slightly extended version of the classical synchronization pro
 
 
 ## Built with
-* Java
+* Java - The programming language used
+* Eclipse - The IDE used
 
 
 ## Author(s)
