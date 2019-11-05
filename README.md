@@ -16,8 +16,9 @@ This project is a slightly extended version of the classical synchronization pro
 
 
 ## Built with
-* Java - The programming language used
-* Eclipse - The IDE used
+
+* [**Java**](https://en.wikipedia.org/wiki/Java_(programming_language)) - The programming language used
+* [**Eclipse**](https://en.wikipedia.org/wiki/Eclipse_(software)) - The IDE used 
 
 
 ## Author(s)
