@@ -1,5 +1,5 @@
 # Dining-Philosopher-Problem
-This repository contains files for the Dining-Philosopher-Problem for Operating Systems course Comp-346
+This repository contains files for the Dining-Philosopher-Problem for Operating Systems course Comp-346 offered by Concordia University(Montreal, Canada)
 
 ## Description of the problem
 
