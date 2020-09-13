@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Dining-Philosopher-Problem
+This repository contains files for the Dining-Philosopher-Problem for Operating Systems course Comp-346 offered by Concordia University(Montreal, Canada)
 
-You can use the [editor on GitHub](https://github.com/mushfiqur-anik/Dining-Philosopher-Problem/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Description of the problem
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project is a slightly extended version of the classical synchronization problem : [**Dining Philosopher Problem**](https://en.wikipedia.org/wiki/Dining_philosophers_problem). The slight extension refers to the fact that sometimes philosophers would like to talk, but only one (any) philosopher can be talking at a time while they are not eating. A philosopher can only be talking for a limited amount of time, and while one philosopher is talking, none of the other philosophers can sleep; however they can be eating or thinking. The problem is solved using Monitor Synchronization Construct built on top of Java's synchronization primitives. 
 
-### Markdown
+## File List
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### Common file
+- BaseThread.java
+##### Task-1 to Task-6
+- Monitor.Java
+- Philosopher.java
+- DiningPhilosophers.java
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Built with
 
-- Bulleted
-- List
+* [**Java**](https://en.wikipedia.org/wiki/Java_(programming_language)) - The programming language used
+* [**Eclipse**](https://en.wikipedia.org/wiki/Eclipse_(software)) - The IDE used 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Author(s)
 
-[Link](url) and ![Image](src)
-```
+* [**Mushfiqur Anik**](https://github.com/mushfiqur-anik)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mushfiqur-anik/Dining-Philosopher-Problem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
